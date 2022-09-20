@@ -1,0 +1,35 @@
+#background-signup{
+    background-image: url("./img/prism.png");
+}
+#background {
+    background-image: url("./img/stardust.png");
+        
+}
+
+.navbar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+ 
+}
+  section {
+    margin-top: 200px;
+    text-align: center;
+  }
+
+#light {
+    color: #f8f3f0;
+}
+.container {
+    margin-top: 200px;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300px;
+    color: #f8f3f0;
+    margin-top: 150px
+   
+}
+#text-center {
+    float: left;
+   max-height: 100%;
+}
