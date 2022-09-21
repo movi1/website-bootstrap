@@ -1,10 +1,14 @@
 #background-signup{
     background-image: url("./img/prism.png");
 }
-#background {
+#background{
     background-image: url("./img/stardust.png");
-        
+
 }
+#background-shop {
+    background-image: url("./img/shop.png");
+}       
+
 
 .navbar {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -15,12 +19,17 @@
     margin-top: 200px;
     text-align: center;
   }
-
-#light {
+ 
+p {
     color: #f8f3f0;
 }
+
+    #light {
+    color: #f8f3f0;}
+
 .container {
     margin-top: 200px;
+ 
 }
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -29,7 +38,19 @@ h1 {
     margin-top: 150px
    
 }
-#text-center {
+/* #text-center {
     float: left;
    max-height: 100%;
+} */
+.button {
+    background-color: #f8f3f0;
+    color: white;
+}
+h4 {
+    color: gray;
+    font-weight:50px;
+    font-size: medium;
+}
+.gallery-image {
+    height: 250px
 }
